@@ -8,12 +8,12 @@
 <div align="center">
 
 ### 💻 Tecnologias e Ferramentas
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Tasy](https://img.shields.io/badge/Tasy-0B5CA3?style=for-the-badge&logo=philips&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white)
-
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+![Tasy](https://img.shields.io/badge/Tasy-%230B5CA3.svg?style=for-the-badge&logo=philips&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23333333.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ### 🌐 Idiomas
 **Português:** Nativo | **Inglês:** Em constante aprendizado (Cursando)
 
