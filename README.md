@@ -6,7 +6,7 @@ Tech enthusiast, Linux user, and currently working as a Help Desk Intern. Focuse
 ### 💻 Technologies and Tools
 
 Currently studying:
-<img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="40" alt="Java"\>
+<img src= (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png) width="40" alt="Java"\>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Knowledge and Projects:
