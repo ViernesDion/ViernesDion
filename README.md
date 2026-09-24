@@ -30,9 +30,13 @@ Tech enthusiast, Linux user, and currently working as a Help Desk Intern. Focuse
 ### 📫 Let's Connect
 
 <div>
-  <a href="https://instagram.com/dionvnr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato.dionataslima@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://instagram.com/dionvnr" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/dionataslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato.dionataslima@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/dionataslima" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
+  </a>
 </div>
