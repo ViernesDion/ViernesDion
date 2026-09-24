@@ -10,7 +10,7 @@ Tech enthusiast, Linux user, and currently working as a Help Desk Intern. Focuse
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40" alt="Python">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="40" alt="C">
 
-**Frameworks**
+**Frameworks**  
 <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" alt="Spring Boot">
 
 **Databases**  
