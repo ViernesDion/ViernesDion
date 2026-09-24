@@ -10,6 +10,9 @@ Tech enthusiast, Linux user, and currently working as a Help Desk Intern. Focuse
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40" alt="Python">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="40" alt="C">
 
+**Frameworks**
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" alt="Spring Boot">
+
 **Databases**  
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40" alt="PostgreSQL">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="40" alt="MariaDB">
