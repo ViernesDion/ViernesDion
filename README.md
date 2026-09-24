@@ -37,6 +37,6 @@ Tech enthusiast, Linux user, and currently working as a Help Desk Intern. Focuse
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/dionataslima" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
   </a>
 </div>
