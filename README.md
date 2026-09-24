@@ -19,7 +19,7 @@ Tech enthusiast, Linux user, and currently working as a Help Desk Intern. Focuse
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" width="40" alt="Windows">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40" alt="Linux">
 <img src="https://cdn.simpleicons.org/render/white" width="40" alt="Render">
-![API REST](https://img.shields.io/badge/API_REST-%230078D7.svg?style=for-the-badge&logo=api&logoColor=white)
+<img src="https://cdn.simpleicons.org/postman" width="40" alt="Postman (API REST)">
 
 ### 🌐 Languages
 - **Portuguese:** Native
